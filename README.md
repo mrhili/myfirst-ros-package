@@ -39,6 +39,18 @@ catkin_package()
 
 ------------------------------------
 
+TIP : WHen you need some required package wich you dont have just run
+
+sudo rosdep init
+rosdep update
+
+OR
+
+rosdep resolve <my_dependency_name>
+
+
+
+
 
 
 
